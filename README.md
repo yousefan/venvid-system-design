@@ -11,7 +11,7 @@ The objective is to design a video sharing and streaming platform; a Youtube "cl
   * Adding the ability for a user to "favorite" a video, and persisting a list of a user's "favorited" videos.
   * Adding the ability for a user to click on a video and watch it
   * **Feel free to decide on your own what features you could add that would be a good exhibition of your abilites**
-- [ ] An API spec for any API's included in your proposed system. This would include:
+- [ ] An API spec for any APIs included in your proposed system. This would include:
   * A description of all available endpoints
   * The request and response types for each endpoint
   * Anything else you think is worth providing as documentation to someone planning on using this API
