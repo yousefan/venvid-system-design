@@ -1,7 +1,15 @@
 # Instructions
 The objective is to design a video-sharing and streaming platform, a YouTube "clone". 
 
-The functional and non-functional requirements are not set in stone; we expect you to decide for yourself what a "good" video streaming and sharing platform should have. A platform like YouTube can have countless features, so a focus on core functionality such as uploading and viewing videos is expected, but if you find value in expanding or contracting the scope, feel free to do so. 
+The functional and non-functional requirements are not set in stone; we expect you to decide for yourself what a "good" video streaming and sharing platform should have. A platform like YouTube can have countless features, so a focus on core functionality such as uploading and viewing videos is expected, but if you find value in expanding or contracting the scope, feel free to do so.
+
+To give you guidance on what the requirements of this system should be, and what it will need to accomplish, this business context is provided:
+* You will have 5 developers to build and maintain this product and system
+* You are expected to have a public release of this product and system in 6 months
+* We expect, on average, somewhere between 20,000 and 50,000 Daily Active Users
+* These users are mainly concentrated in Canada and Europe
+  
+Please use the above context to inform your design decisions. You will be expected to explain decisions you have made in the context of the above information.
 
 You are expected to spend less than 5 hours on this assignment; you will have 1 hour to present your coding assignment and your proposed architecture in the upcoming interview, and you will also be expected to submit specific deliverables by pushing them to a GitHub repository before the deadline. In particular, the expected deliverables are:
 
