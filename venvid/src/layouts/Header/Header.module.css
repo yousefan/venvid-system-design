@@ -1,0 +1,20 @@
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+
+  }
+  
+  .searchContainer {
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  .searchInput {
+    width: 100%;
+  }
+  
+  .collapse {
+    padding: 0.75rem 1rem;
+  }
+  

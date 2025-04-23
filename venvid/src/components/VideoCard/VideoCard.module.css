@@ -1,0 +1,27 @@
+.videoCard {
+    transition: transform 0.2s ease-in-out;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .videoCard:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .thumbnail {
+    object-fit: cover;
+    height: 180px;
+    width: 100%;
+  }
+  
+  .duration {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    padding: 4px 6px;
+    font-size: 0.75rem;
+    opacity: 0.85;
+  }
+  

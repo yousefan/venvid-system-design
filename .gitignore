@@ -1,0 +1,24 @@
+# Logs
+venvid/logs
+venvid/*.log
+venvid/npm-debug.log*
+venvid/yarn-debug.log*
+venvid/yarn-error.log*
+venvid/pnpm-debug.log*
+venvid/lerna-debug.log*
+
+venvid/node_modules
+venvid/dist
+venvid/dist-ssr
+venvid/*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
